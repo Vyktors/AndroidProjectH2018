@@ -1,0 +1,21 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">AndroidTiles</string>
+    <string name="nom_programmeur">Victor Guérin</string>
+    <string name="titre">Android Tiles</string>
+
+    <!-- Menu strings -->
+    <string name="menu_principal">Menu</string>
+    <string name="menu_jouer">Jouer</string>
+    <string name="menu_parametres">Paramètres</string>
+    <string name="menu_sons">Sons</string>
+    <string name="menu_quitter">Quitter</string>
+    <string name="menu_difficulte">Difficulté</string>
+    <string name="menu_diff_facile">Facile</string>
+    <string name="menu_diff_intermediaire">Intermediaire</string>
+    <string name="menu_diff_difficile">Difficile</string>
+
+    <!-- In-Game strings -->
+
+
+</resources>

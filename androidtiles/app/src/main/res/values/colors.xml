@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTileBeige">#DF9053</color>
+    <color name="colorTileRed">#891212</color>
+    <color name="colorTilePurple">#887ABE</color>
+    <color name="colorTilePink">#B56BC2</color>
+    <color name="colorTileGreen">#B56BC2</color>
+</resources>
+
